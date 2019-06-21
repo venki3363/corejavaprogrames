@@ -17,7 +17,7 @@ public class FirstNonRepeatingCharacter {
 	 * The method returns index of first non-repeating character in a string. If
 	 * all characters are repeating then returns -1
 	 */
-
+//check first repetititive
 	static int firstNonRepeating(String str) {
 		getCharCountArray(str);
 		int index = -1, i;
